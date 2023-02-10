@@ -25,3 +25,8 @@ h3{
     color: white;
     font-size: 40px;
 }
+.boton{
+    background-color: crimson;
+    color: white;
+    padding: 10px;
+}
